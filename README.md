@@ -1,7 +1,7 @@
-<h1> OPA, eu sou o Marcos 👋 </h1> 
+<h1>Eu sou o Marcos 👋 </h1> 
 
 - 🔭 [...] estágio
-- 🌱 Front-end, React, JavaScript, TypeScript,...
+- 🌱 FrontEnd
 - 📫 me encontre no email - marcosvitorcoelho@gmail.com
 
 <div>
@@ -16,7 +16,6 @@
   <img align="center" alt="Marcos-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Marcos-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Marcos-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Marcos-draw" height="120" width="110" src="https://share-cdn.picrew.me/shareImg/org/202109/94097_BDcbg0GX.png">
 </div>
 
 ##
